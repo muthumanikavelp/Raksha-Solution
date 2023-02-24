@@ -1,0 +1,89 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Ramya\\Projects\\Raksha from Bala Sir\\Raksha.csproj": {}
+  },
+  "projects": {
+    "D:\\Ramya\\Projects\\Raksha from Bala Sir\\Raksha.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Ramya\\Projects\\Raksha from Bala Sir\\Raksha.csproj",
+        "projectName": "Raksha",
+        "projectPath": "D:\\Ramya\\Projects\\Raksha from Bala Sir\\Raksha.csproj",
+        "packagesPath": "C:\\Users\\adinmaanmr\\.nuget\\packages\\",
+        "outputPath": "D:\\Ramya\\Projects\\Raksha from Bala Sir\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\adinmaanmr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {},
+          "https://nuget.telerik.com/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Kendo.for.AspNet.Core": {
+              "target": "Package",
+              "version": "[2019.1.115, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[6.10.9, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "System.Data.OleDb": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "iTextSharp": {
+              "target": "Package",
+              "version": "[5.5.13.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.107\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

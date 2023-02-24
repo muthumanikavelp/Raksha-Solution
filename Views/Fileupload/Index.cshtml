@@ -1,0 +1,73 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/views/Shared/_Layout.cshtml";
+    Layout = "~/views/Shared/_Layout1.cshtml";
+}
+<html>
+    <head>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-fQybjgWLrvvRgtW6bFlB7jaZrFsaBXjsOMm/tB9LTS58ONXgqbR9W8oWht/amnpF" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.min.js" integrity="sha384-VHvPCCyXqtD5DqJeNxl2dtTyhF78xXNXdkwX1CZeRusQfRKp+tA7hAShOK/B/fQ2" crossorigin="anonymous"></script>
+</head>
+<body>
+    <h4 style="text-align: center;">Insurance Card Upload</h4>
+<div class="container" style="top:20%">
+<form enctype="multipart/form-data" method="post" asp-controller="Fileupload" asp-action="UploadFile">
+   @* <dl>
+        <dt>
+            <label>Upload</label>
+        </dt>
+        <dd>*@
+         @*   <input  type="file" name="FormFile" id="FormFile" accept=".xls,.xlsx,image/*" multiple />*@
+       @*     <div class="custom-file">
+            <input type="file" class="custom-file-input" id="inputGroupFile01" aria-describedby="inputGroupFileAddon01"
+            accept=".xls,.xlsx,image/*" multiple />
+            <label class="custom-file-label" for="inputGroupFile01">Choose file</label>
+          </div>*@
+       @* </dd>
+    </dl>
+    <input class="btn" type="submit" value="Upload"  />*@
+
+    <div class="input-group" style="margin-top:9%">
+  <div class="input-group-prepend">
+    <span class="input-group-text" id="inputGroupFileAddon01">Upload</span>
+  </div>
+  <div class="custom-file">
+    <input type="file" class="custom-file-input" name="FormFile" id="inputGroupFile01"
+      aria-describedby="inputGroupFileAddon01" accept=".xls,.xlsx,image/*" multiple >
+    <label class="custom-file-label" for="inputGroupFile01">Choose file</label>
+  </div>
+</div>
+<input type="submit" value="Upload" class="btn btn-success" style="margin-left:67%;margin-top:1%" />&nbsp;&nbsp;
+<input type="button" value="Clear" onclick="Clear()" class="btn btn-danger" style="margin-top:1%" />
+</form>
+</div>
+</body>
+</html>
+
+<script>
+
+    $(document).ready(function() {
+        if('@ViewBag.Message' != "View" && '@ViewBag.Message' != ""){
+            alert('@ViewBag.Message',"Message");
+            jAlert('@ViewBag.Message',"Message");
+        }
+
+        console.log("ViewBag",'@ViewBag.Message');
+    });
+            //$('#inputGroupFile01').on('change',function(){
+            //    //get the file name
+            //    var fileName = $(this).val();
+            //    //replace the "Choose a file" label
+            //    $(this).next('.custom-file-label').html(fileName);
+            //})
+    function Clear(){
+        $("#inputGroupFile01").val("");
+    }
+</script>

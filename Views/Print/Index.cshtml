@@ -1,0 +1,411 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/views/Shared/_Layout1.cshtml";
+}
+<div class="demo-section" style="width:100%;margin-left:10px;">
+    <h4 style="text-align: center;">Insurance Card Print</h4>
+
+    <div class="demo-section">
+        <h4>Company:</h4>
+
+        <input id="cmb_company" name="in_orgn_level" data-role="filtercombo" style="width:20%;height:30px" class="form-control" />
+    </div>
+    <div>
+        <input type="button" id="btnDonwloadAll" value="Downlod All Cards" onclick="PrintAll()" class="btn btn-success" style="margin-top: -3%;
+    margin-left: 87%;
+    margin-bottom: 1%;" />
+        <a id="downloadpath" download href=""></a>
+        @* <span title = 'Download' class='fa fa-download' style='color:#357ab8,cursor:pointer' onclick='PrintAll()'></span>*@
+    </div>
+    <div id="gridClient"></div>
+    @*<input id="cmb_company" name="in_orgn_level" data-role="filtercombo" style="width:70%;height:20px" class="form-control">*@
+</div>
+
+
+<script>
+        function PrintAll()
+        {
+                var grid_val = JSON.stringify($("#gridClient").data().kendoGrid._data);
+                var Bindinw = {};
+                Bindinw = grid_val;
+                var resultinw = JSON.parse(Bindinw);
+
+                var disctype = [];
+                debugger;
+                for (var i = 0; i < resultinw.length; i++) {
+                    var data={};
+                    data.pClientName=resultinw[i].clientName;
+                    data.pMemberId=resultinw[i].memberId;
+                    data.pPolicyno=resultinw[i].policyno;
+                    data.pMemberName=resultinw[i].memberName;
+                    data.pImageName = resultinw[i].imageName
+                    disctype.push(data);
+                }
+                //console.log(disctype);
+                $.ajax({
+                type: "POST",
+                data: JSON.stringify({Detail: disctype}),
+                //url: "/SoilCard/SoilcardList",
+                url: '@Url.Action("DownloadAllList","Print")',
+                dataType: "json",
+                contentType: 'application/json; charset=utf-8',
+                success: function (response) {
+                    debugger;
+                    if (response != null) {
+                        debugger;
+                        var url_path = (response);
+                        $("#downloadpath").attr("href", url_path);
+                        document.getElementById("downloadpath").click();
+                        alert("File Downloaded Successfully!");
+                    }
+                },
+                error: function (er) {
+                    alert(er)
+                    console.log(er)
+                }
+            });
+                //for (var i = 0; i < resultinw.length; i++) {
+                //    resultinw[i].clientName = resultinw[i].clientName;
+                //}
+            //console.log(resultinw);
+            //$("#txt_totamt").val(parseFloat(net_amt1).toFixed(2));
+        }
+        var CustomerHelper ={
+                GenerateColumns: function () {
+                    return columns = [
+                        {field: "clientName",title: "Company Name", width:60, editable:false },
+                        {field: "memberId",title: "Member ID", width:60, editable:false },
+                        {field: "policyno",title: "Policy No", width:60, editable:false },
+                        {field: "memberName",title: "Member Name", width:60, editable:false },
+                        {field: "imageName",title: "Image Name", width:60, editable:false },
+                        {
+                        command: [
+                            //{
+                            //    name: "Delete",
+                            //    text: "<span class='fa fa-close' style='color:#357ab8' onClick='onattachdelete()'></span>"
+                            //},
+                            {
+                                name: "Download Card",
+                                text: "<span title = 'Download' class='fa fa-download' style='color:#357ab8,cursor:pointer' onClick='onClickFunc()'></span>"
+                            },
+                        ], title: "Action", width: "15px",
+                    },]
+                }
+            }
+        $(document).ready(function () {
+            debugger;
+           loadddl();
+           $("#btnDonwloadAll").hide();
+        });
+    function filter_combobox(id, datasource)
+    {
+        debugger;
+        console.log(datasource);
+        $("#" + id).kendoComboBox({
+            dataTextField: "desc",
+            dataValueField: "code",
+            filter: "contains",
+            autoBind: false,
+            minLength: 1,
+            dataSource: datasource,
+            change: function () {
+                //  setColorforcombo();
+                var value = this.value();
+                debugger;
+                if(value=="0")
+                {
+                    //alert("Kindly select Company!");
+                    $("#btnDonwloadAll").hide();
+                }
+                else
+                {
+                    $("#btnDonwloadAll").show();
+                    LoadList(value);
+                    //alert($("#cmb_company").val());
+                }
+                //var value = this.value();
+                //var text = this.text();
+                //if (value && this.selectedIndex == -1) {
+                //    this.value("");
+                //}
+                //if (id == "cmb_user") {
+                //    setroleforinternal(text);
+                //}
+            },
+            dataBound: setColorforcombo,
+            // dataBinding: setColor,
+        });
+
+        // var comboBox = $("#" + id).data("kendoComboBox");
+
+        //$("#" + id + " .k-item").css("display", "inline-block");
+        //$("#" + id + " .k-item").css( "min-width", "100%");
+
+        //comboBox.list.css("min-width","100%");
+
+        list_in = "";
+    }
+
+    function setColorforcombo() {
+
+        for (var i = 0; i < this.dataSource._data.length; i++) {
+            var val = this.dataSource._data[i].status;
+            var desc = this.dataSource._data[i].desc;
+            var row = $(this.list.find('li')[i]);
+            if (val == "Active") {
+                row.css('color', 'black')
+            }
+            else if (val == "Inactive") {
+                row.css('color', 'red')
+            }
+            //if (desc == "Internal") {
+            //    row.css('display', 'none');
+            //    var len = $('#cmb_user').data('kendoComboBox').dataSource._data.length;
+            //    $('#cmb_user').data('kendoComboBox').dataSource.add({
+            //        code: len + 1,
+            //        desc: "Internal"
+            //    })
+            //    break;
+            //    return false;
+            //}
+        }
+    }
+           function loadddl()
+           {
+               $.ajax({
+               type: "POST",
+               url: '@Url.Action("GetClientDropdownList","Print")',
+               dataType: "json",
+               contentType: 'application/json; charset=utf-8',
+               success: function (response) {
+                   debugger;
+                   if (response != null) {
+
+                       var itemArr = [];
+                       var list = {};
+                       list.code = "0";
+                       list.desc = "-- Select --";
+                       itemArr.push(list);
+                        for (var i = 0; i < response.length; i++) {
+                            list = {};
+                            list.code = response[i].categoryID;
+                            list.desc = response[i].categoryName;
+                            itemArr.push(list);
+                        }
+                        filter_combobox("cmb_company", itemArr);
+                        $('#cmb_company').data("kendoComboBox").value(0);
+                   }
+                   else {
+                       //grid_soil([]);
+                       $("#cmb_company").empty();
+                   }
+               },
+               error: function (er) {
+                   alert(er);
+                   console.log(er);
+               }
+           });
+           }
+
+           function LoadClientDetails(data)
+           {
+               $("#gridClient").kendoGrid({
+                //dataSource:[{ CustomerID: "1", ContactName:"Aysh1", CompanyName:"ABC", Country:"IND" },
+                //{ CustomerID: "2", ContactName:"Aysh2", CompanyName:"ABC", Country:"IND" },
+                //{ CustomerID: "3", ContactName:"Aysh3", CompanyName:"ABC", Country:"IND" },
+                //{ CustomerID: "4", ContactName:"Aysh4", CompanyName:"ABC", Country:"IND" },
+                //{ CustomerID: "5", ContactName:"Aysh5", CompanyName:"ABC", Country:"IND" }
+                //],
+                dataSource: {
+                    data: data, //  pageSize: 20
+                    pageSize:20,
+                },
+                filterable: true,
+                height: 350,
+                sortable: true,
+                selectable: true,
+                selectable: "single",
+                navigatable: true,
+                pageable:true,
+
+                //columns:  CustomerHelper.GenerateColumns(),
+                columns: [
+                    {
+                        field: "clientName",
+                        title: "Company Name",
+                        //hidden: true,
+                        width: 45
+                    },
+                    {
+                        field: "memberId",
+                        title: "Member ID",
+                        width: 20
+                    },
+                    {
+                        field: "policyno",
+                        title: "Policy No",
+                        width: 25
+                    },
+                    {
+                        field: "memberName",
+                        title: "Member Name",
+                        width: 40
+                    },
+                    {
+                        field: "imageName",
+                        title: "Image Name",
+                        width: 30
+                    },
+                    {
+                    //    command: [
+                    //        {
+                    //            name: "Download",
+                    //            text: "<span title = 'Download' class='fa fa-download' style='color:#357ab8,cursor:pointer' onClick='onClickFunc(this)'>Download</span>"
+                    //        },
+                    //    ], title: "Action", width: "25px",
+                    //},],
+                     command: [
+                                {
+                                    name: "Download",
+                                    id: "View",
+                                    text: "Download Card",
+                                    click: function (e) {
+                                        var grid1 = $("#gridClient").data("kendoGrid");
+                                        var dataItem1 = $("#gridClient").data("kendoGrid").dataItem($(e.target).closest("tr"));
+                                        onClickFunc(e, dataItem1, grid1);
+                                    }
+                                },
+                            ], title: "Action", width: "20px",
+                    },],
+
+
+
+                //editable: false,
+                //navigatable: true,
+                //selectable: "row"
+            });
+
+
+           }
+
+           function changedataType(res) {
+        debugger;
+        $.each(res, function (key, value) {
+            $.each(value, function (skey, svalue) {
+                if (svalue == null)
+                    svalue = "";
+                value[skey] = svalue.toString();
+            })
+            res[key] = value;
+        });
+        return res;
+    }
+
+     function generate_soil_list(res) {
+            var data = changedataType(res);
+            LoadClientDetails(data);
+        }
+
+        function LoadList(cmpyname)
+        {
+            $.ajax({
+                type: "POST",
+                //data: JSON.stringify({ orgnId: Context.orgnId, locnId: Context.locnId, localeId: Context.localeId, soil_status: soilcardstatus }),
+                //url: "/SoilCard/SoilcardList",
+                url: '@Url.Action("GetClientList","Print")?cmyname='+cmpyname,
+                dataType: "json",
+                contentType: 'application/json; charset=utf-8',
+                success: function (response) {
+                    debugger;
+                    if (response != null) {
+                        //console.log("LoadList",response);
+                        generate_soil_list(response);
+                        //if (soilcardstatus == "983") {
+                        //    debugger;
+                        //    $("#grid_soil .k-grid-Delete1").hide();
+                        //    $("#grid_soil .k-grid-Edit").hide();
+                        //}
+                    }
+                    else {
+                        alert("NullResponse","Error");
+                        LoadClientDetails([]);
+                    }
+                },
+                error: function (er) {
+                    alert(er)
+                    console.log(er)
+                }
+            });
+        }
+
+    //    $("#gridClient").kendoGrid({
+    //    columns: [ { command: [ { name: "Edit", click: "onClickFunc" ] } ]
+    //});
+
+    function onClickFunc(e,selectedItem,grid1) {
+        debugger;
+        //var grid = $("#gridClient").data("kendoGrid");
+        //var selectedItem = grid.dataItem(grid.select());
+        var ClientName = selectedItem.clientName; // or whatever other property
+        var pmembername = selectedItem.memberName;
+        var policyno = selectedItem.policyno;
+        var memberid = selectedItem.memberId;
+        var imageName = selectedItem.imageName;
+        //var ClientName = "ramya chk";
+        debugger;
+        $.ajax({
+                type: "POST",
+                //data: JSON.stringify({ pmebercmpyname: ClientName,p_membername:pmembername,ppolicyno:policyno,pmemberid:memberid }),
+                //url: "/SoilCard/SoilcardList",
+                url: '@Url.Action("DownloadSinglePDF","Print")?pmebercmpyname='+ClientName+'&p_membername='+pmembername+'&ppolicyno='+policyno+'&pmemberid='+memberid+'&pImageName='+imageName,
+                dataType: "json",
+                contentType: 'application/json; charset=utf-8',
+                success: function (response) {
+                    debugger;
+                    if (response != null) {
+                        debugger;
+                     var url_path = (response);
+                        $("#downloadpath").attr("href", url_path);
+                        document.getElementById("downloadpath").click();
+                    alert("File Downloaded Successfully!");
+                    }
+                    //if (response != null) {
+                    //    //console.log(response);
+                    //    //generate_soil_list(response);
+                    //    jAlert("File Downloaded Successfully!");
+                    //}
+                    //else {
+                    //    LoadClientDetails([]);
+                    //}
+                },
+                error: function (er) {
+                    alert(er)
+                    console.log(er)
+                }
+            });
+    }
+     //function onSelect(e) {
+     //               if ("cmb_company" in window) {
+     //                   if (e.dataItem) {
+     //                       var dataItem = e.dataItem;
+     //                       alert("event :: select (" + dataItem.text + " : " + dataItem.value + ")");
+     //                   } else {
+     //                       alert("event :: select");
+     //                   }
+     //               }
+     //           };
+
+    //$("#cmb_company").on('change', function (e) {
+    //    debugger;
+    //    if($("#cmb_company").val()=="0")
+    //    {
+    //        alert("Kindly select Company!");
+    //        $("#btnDonwloadAll").hide();
+    //    }
+    //    else
+    //    {
+    //        $("#btnDonwloadAll").show();
+    //        alert($("#cmb_company").val());
+    //    }
+    //});
+</script>

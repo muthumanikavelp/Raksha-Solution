@@ -1,0 +1,347 @@
+D:\Flexi\Raksha\Raksha\bin\Debug\net6.0\appsettings.Development.json
+D:\Flexi\Raksha\Raksha\bin\Debug\net6.0\appsettings.json
+D:\Flexi\Raksha\Raksha\bin\Debug\net6.0\Raksha.staticwebassets.runtime.json
+D:\Flexi\Raksha\Raksha\bin\Debug\net6.0\Raksha.exe
+D:\Flexi\Raksha\Raksha\bin\Debug\net6.0\Raksha.deps.json
+D:\Flexi\Raksha\Raksha\bin\Debug\net6.0\Raksha.runtimeconfig.json
+D:\Flexi\Raksha\Raksha\bin\Debug\net6.0\Raksha.dll
+D:\Flexi\Raksha\Raksha\bin\Debug\net6.0\ref\Raksha.dll
+D:\Flexi\Raksha\Raksha\bin\Debug\net6.0\Raksha.pdb
+D:\Flexi\Raksha\Raksha\obj\Debug\net6.0\Raksha.csproj.AssemblyReference.cache
+D:\Flexi\Raksha\Raksha\obj\Debug\net6.0\Raksha.GeneratedMSBuildEditorConfig.editorconfig
+D:\Flexi\Raksha\Raksha\obj\Debug\net6.0\Raksha.AssemblyInfoInputs.cache
+D:\Flexi\Raksha\Raksha\obj\Debug\net6.0\Raksha.AssemblyInfo.cs
+D:\Flexi\Raksha\Raksha\obj\Debug\net6.0\Raksha.csproj.CoreCompileInputs.cache
+D:\Flexi\Raksha\Raksha\obj\Debug\net6.0\Raksha.MvcApplicationPartsAssemblyInfo.cache
+D:\Flexi\Raksha\Raksha\obj\Debug\net6.0\Raksha.RazorAssemblyInfo.cache
+D:\Flexi\Raksha\Raksha\obj\Debug\net6.0\Raksha.RazorAssemblyInfo.cs
+D:\Flexi\Raksha\Raksha\obj\Debug\net6.0\staticwebassets.build.json
+D:\Flexi\Raksha\Raksha\obj\Debug\net6.0\staticwebassets.development.json
+D:\Flexi\Raksha\Raksha\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Flexi\Raksha\Raksha\obj\Debug\net6.0\scopedcss\bundle\Raksha.styles.css
+D:\Flexi\Raksha\Raksha\obj\Debug\net6.0\scopedcss\projectbundle\Raksha.bundle.scp.css
+D:\Flexi\Raksha\Raksha\obj\Debug\net6.0\Raksha.dll
+D:\Flexi\Raksha\Raksha\obj\Debug\net6.0\ref\Raksha.dll
+D:\Flexi\Raksha\Raksha\obj\Debug\net6.0\Raksha.pdb
+D:\Flexi\Raksha\Raksha\obj\Debug\net6.0\Raksha.genruntimeconfig.cache
+D:\Bala Flexi\Projects\Raksha TPA\Raksha\Raksha\bin\Debug\net6.0\appsettings.Development.json
+D:\Bala Flexi\Projects\Raksha TPA\Raksha\Raksha\bin\Debug\net6.0\appsettings.json
+D:\Bala Flexi\Projects\Raksha TPA\Raksha\Raksha\bin\Debug\net6.0\Raksha.staticwebassets.runtime.json
+D:\Bala Flexi\Projects\Raksha TPA\Raksha\Raksha\bin\Debug\net6.0\Raksha.exe
+D:\Bala Flexi\Projects\Raksha TPA\Raksha\Raksha\bin\Debug\net6.0\Raksha.deps.json
+D:\Bala Flexi\Projects\Raksha TPA\Raksha\Raksha\bin\Debug\net6.0\Raksha.runtimeconfig.json
+D:\Bala Flexi\Projects\Raksha TPA\Raksha\Raksha\bin\Debug\net6.0\Raksha.dll
+D:\Bala Flexi\Projects\Raksha TPA\Raksha\Raksha\bin\Debug\net6.0\ref\Raksha.dll
+D:\Bala Flexi\Projects\Raksha TPA\Raksha\Raksha\bin\Debug\net6.0\Raksha.pdb
+D:\Bala Flexi\Projects\Raksha TPA\Raksha\Raksha\bin\Debug\net6.0\MySql.Data.dll
+D:\Bala Flexi\Projects\Raksha TPA\Raksha\Raksha\obj\Debug\net6.0\Raksha.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bala Flexi\Projects\Raksha TPA\Raksha\Raksha\obj\Debug\net6.0\Raksha.AssemblyInfoInputs.cache
+D:\Bala Flexi\Projects\Raksha TPA\Raksha\Raksha\obj\Debug\net6.0\Raksha.AssemblyInfo.cs
+D:\Bala Flexi\Projects\Raksha TPA\Raksha\Raksha\obj\Debug\net6.0\Raksha.csproj.CoreCompileInputs.cache
+D:\Bala Flexi\Projects\Raksha TPA\Raksha\Raksha\obj\Debug\net6.0\Raksha.MvcApplicationPartsAssemblyInfo.cache
+D:\Bala Flexi\Projects\Raksha TPA\Raksha\Raksha\obj\Debug\net6.0\Raksha.RazorAssemblyInfo.cache
+D:\Bala Flexi\Projects\Raksha TPA\Raksha\Raksha\obj\Debug\net6.0\Raksha.RazorAssemblyInfo.cs
+D:\Bala Flexi\Projects\Raksha TPA\Raksha\Raksha\obj\Debug\net6.0\staticwebassets.build.json
+D:\Bala Flexi\Projects\Raksha TPA\Raksha\Raksha\obj\Debug\net6.0\staticwebassets.development.json
+D:\Bala Flexi\Projects\Raksha TPA\Raksha\Raksha\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Bala Flexi\Projects\Raksha TPA\Raksha\Raksha\obj\Debug\net6.0\scopedcss\bundle\Raksha.styles.css
+D:\Bala Flexi\Projects\Raksha TPA\Raksha\Raksha\obj\Debug\net6.0\scopedcss\projectbundle\Raksha.bundle.scp.css
+D:\Bala Flexi\Projects\Raksha TPA\Raksha\Raksha\obj\Debug\net6.0\Raksha.csproj.CopyComplete
+D:\Bala Flexi\Projects\Raksha TPA\Raksha\Raksha\obj\Debug\net6.0\Raksha.dll
+D:\Bala Flexi\Projects\Raksha TPA\Raksha\Raksha\obj\Debug\net6.0\ref\Raksha.dll
+D:\Bala Flexi\Projects\Raksha TPA\Raksha\Raksha\obj\Debug\net6.0\Raksha.pdb
+D:\Bala Flexi\Projects\Raksha TPA\Raksha\Raksha\obj\Debug\net6.0\Raksha.genruntimeconfig.cache
+D:\Flexi\Raksha\Bala\Raksha\obj\Debug\net6.0\Raksha.csproj.AssemblyReference.cache
+D:\Flexi\Raksha\Bala\Raksha\obj\Debug\net6.0\Raksha.GeneratedMSBuildEditorConfig.editorconfig
+D:\Flexi\Raksha\Bala\Raksha\obj\Debug\net6.0\Raksha.AssemblyInfoInputs.cache
+D:\Flexi\Raksha\Bala\Raksha\obj\Debug\net6.0\Raksha.AssemblyInfo.cs
+D:\Flexi\Raksha\Bala\Raksha\obj\Debug\net6.0\Raksha.csproj.CoreCompileInputs.cache
+D:\Flexi\Raksha\Bala\Raksha\obj\Debug\net6.0\Raksha.MvcApplicationPartsAssemblyInfo.cache
+D:\Flexi\Raksha\Bala\Raksha\obj\Debug\net6.0\Raksha.RazorAssemblyInfo.cache
+D:\Flexi\Raksha\Bala\Raksha\obj\Debug\net6.0\Raksha.RazorAssemblyInfo.cs
+D:\Flexi\Raksha\Bala\Raksha\obj\Debug\net6.0\Raksha.dll
+D:\Flexi\Raksha\Bala\Raksha\obj\Debug\net6.0\ref\Raksha.dll
+D:\Flexi\Raksha\Bala\Raksha\obj\Debug\net6.0\Raksha.pdb
+D:\Flexi\Raksha\Bala\Raksha\bin\Debug\net6.0\appsettings.Development.json
+D:\Flexi\Raksha\Bala\Raksha\bin\Debug\net6.0\appsettings.json
+D:\Flexi\Raksha\Bala\Raksha\bin\Debug\net6.0\Raksha.staticwebassets.runtime.json
+D:\Flexi\Raksha\Bala\Raksha\bin\Debug\net6.0\Raksha.exe
+D:\Flexi\Raksha\Bala\Raksha\bin\Debug\net6.0\Raksha.deps.json
+D:\Flexi\Raksha\Bala\Raksha\bin\Debug\net6.0\Raksha.runtimeconfig.json
+D:\Flexi\Raksha\Bala\Raksha\bin\Debug\net6.0\Raksha.dll
+D:\Flexi\Raksha\Bala\Raksha\bin\Debug\net6.0\ref\Raksha.dll
+D:\Flexi\Raksha\Bala\Raksha\bin\Debug\net6.0\Raksha.pdb
+D:\Flexi\Raksha\Bala\Raksha\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Flexi\Raksha\Bala\Raksha\bin\Debug\net6.0\MySql.Data.dll
+D:\Flexi\Raksha\Bala\Raksha\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Flexi\Raksha\Bala\Raksha\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Flexi\Raksha\Bala\Raksha\bin\Debug\net6.0\System.Data.OleDb.dll
+D:\Flexi\Raksha\Bala\Raksha\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\Flexi\Raksha\Bala\Raksha\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Flexi\Raksha\Bala\Raksha\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Flexi\Raksha\Bala\Raksha\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Flexi\Raksha\Bala\Raksha\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Flexi\Raksha\Bala\Raksha\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Flexi\Raksha\Bala\Raksha\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+D:\Flexi\Raksha\Bala\Raksha\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\Flexi\Raksha\Bala\Raksha\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Flexi\Raksha\Bala\Raksha\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Flexi\Raksha\Bala\Raksha\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Flexi\Raksha\Bala\Raksha\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Flexi\Raksha\Bala\Raksha\obj\Debug\net6.0\staticwebassets.build.json
+D:\Flexi\Raksha\Bala\Raksha\obj\Debug\net6.0\staticwebassets.development.json
+D:\Flexi\Raksha\Bala\Raksha\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Flexi\Raksha\Bala\Raksha\obj\Debug\net6.0\scopedcss\bundle\Raksha.styles.css
+D:\Flexi\Raksha\Bala\Raksha\obj\Debug\net6.0\scopedcss\projectbundle\Raksha.bundle.scp.css
+D:\Flexi\Raksha\Bala\Raksha\obj\Debug\net6.0\Raksha.csproj.CopyComplete
+D:\Flexi\Raksha\Bala\Raksha\obj\Debug\net6.0\Raksha.genruntimeconfig.cache
+D:\Flexi\Raksha\Bala\Raksha\bin\Debug\net6.0\Kendo.Mvc.dll
+D:\Flexi\Raksha\Bala\Raksha\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Flexi\Raksha\Bala\Raksha\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+D:\Flexi\Raksha\Bala\Raksha\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Flexi\Raksha\Bala\Raksha\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Flexi\Raksha\Bala\Raksha\bin\Debug\net6.0\Microsoft.DotNet.InternalAbstractions.dll
+D:\Flexi\Raksha\Bala\Raksha\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Flexi\Raksha\Bala\Raksha\bin\Debug\net6.0\Microsoft.Extensions.Globalization.CultureInfoCache.dll
+D:\Flexi\Raksha\Bala\Raksha\bin\Debug\net6.0\Microsoft.Extensions.PlatformAbstractions.dll
+D:\Flexi\Raksha\Bala\Raksha\bin\Debug\net6.0\bg-BG\Kendo.Mvc.resources.dll
+D:\Flexi\Raksha\Bala\Raksha\bin\Debug\net6.0\cs-CZ\Kendo.Mvc.resources.dll
+D:\Flexi\Raksha\Bala\Raksha\bin\Debug\net6.0\da-DK\Kendo.Mvc.resources.dll
+D:\Flexi\Raksha\Bala\Raksha\bin\Debug\net6.0\de-DE\Kendo.Mvc.resources.dll
+D:\Flexi\Raksha\Bala\Raksha\bin\Debug\net6.0\es-ES\Kendo.Mvc.resources.dll
+D:\Flexi\Raksha\Bala\Raksha\bin\Debug\net6.0\fr-CA\Kendo.Mvc.resources.dll
+D:\Flexi\Raksha\Bala\Raksha\bin\Debug\net6.0\fr-FR\Kendo.Mvc.resources.dll
+D:\Flexi\Raksha\Bala\Raksha\bin\Debug\net6.0\it-IT\Kendo.Mvc.resources.dll
+D:\Flexi\Raksha\Bala\Raksha\bin\Debug\net6.0\nl-NL\Kendo.Mvc.resources.dll
+D:\Flexi\Raksha\Bala\Raksha\bin\Debug\net6.0\pl-PL\Kendo.Mvc.resources.dll
+D:\Flexi\Raksha\Bala\Raksha\bin\Debug\net6.0\pt-BR\Kendo.Mvc.resources.dll
+D:\Flexi\Raksha\Bala\Raksha\bin\Debug\net6.0\pt-PT\Kendo.Mvc.resources.dll
+D:\Flexi\Raksha\Bala\Raksha\bin\Debug\net6.0\ro-RO\Kendo.Mvc.resources.dll
+D:\Flexi\Raksha\Bala\Raksha\bin\Debug\net6.0\ru-RU\Kendo.Mvc.resources.dll
+D:\Flexi\Raksha\Bala\Raksha\bin\Debug\net6.0\sv-SE\Kendo.Mvc.resources.dll
+D:\Flexi\Raksha\Bala\Raksha\bin\Debug\net6.0\tr-TR\Kendo.Mvc.resources.dll
+D:\Flexi\Raksha\Bala\Raksha\bin\Debug\net6.0\uk-UA\Kendo.Mvc.resources.dll
+D:\Flexi\Raksha\Bala\Raksha\bin\Debug\net6.0\zh-CN\Kendo.Mvc.resources.dll
+D:\Flexi\Raksha\Bala\Raksha\obj\Debug\net6.0\Raksha.MvcApplicationPartsAssemblyInfo.cs
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\bin\Debug\net6.0\Raksha.dll
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\bin\Debug\net6.0\appsettings.Development.json
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\bin\Debug\net6.0\appsettings.json
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\bin\Debug\net6.0\Raksha.staticwebassets.runtime.json
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\bin\Debug\net6.0\Raksha.exe
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\bin\Debug\net6.0\Raksha.deps.json
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\bin\Debug\net6.0\Raksha.runtimeconfig.json
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\bin\Debug\net6.0\Kendo.Mvc.dll
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\bin\Debug\net6.0\Microsoft.DotNet.InternalAbstractions.dll
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\bin\Debug\net6.0\Microsoft.Extensions.Globalization.CultureInfoCache.dll
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\bin\Debug\net6.0\Microsoft.Extensions.PlatformAbstractions.dll
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\bin\Debug\net6.0\MySql.Data.dll
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\bin\Debug\net6.0\System.Data.OleDb.dll
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\bin\Debug\net6.0\bg-BG\Kendo.Mvc.resources.dll
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\bin\Debug\net6.0\cs-CZ\Kendo.Mvc.resources.dll
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\bin\Debug\net6.0\da-DK\Kendo.Mvc.resources.dll
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\bin\Debug\net6.0\de-DE\Kendo.Mvc.resources.dll
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\bin\Debug\net6.0\es-ES\Kendo.Mvc.resources.dll
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\bin\Debug\net6.0\fr-CA\Kendo.Mvc.resources.dll
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\bin\Debug\net6.0\fr-FR\Kendo.Mvc.resources.dll
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\bin\Debug\net6.0\it-IT\Kendo.Mvc.resources.dll
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\bin\Debug\net6.0\nl-NL\Kendo.Mvc.resources.dll
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\bin\Debug\net6.0\pl-PL\Kendo.Mvc.resources.dll
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\bin\Debug\net6.0\pt-BR\Kendo.Mvc.resources.dll
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\bin\Debug\net6.0\pt-PT\Kendo.Mvc.resources.dll
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\bin\Debug\net6.0\ro-RO\Kendo.Mvc.resources.dll
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\bin\Debug\net6.0\ru-RU\Kendo.Mvc.resources.dll
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\bin\Debug\net6.0\sv-SE\Kendo.Mvc.resources.dll
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\bin\Debug\net6.0\tr-TR\Kendo.Mvc.resources.dll
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\bin\Debug\net6.0\uk-UA\Kendo.Mvc.resources.dll
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\bin\Debug\net6.0\zh-CN\Kendo.Mvc.resources.dll
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\obj\Debug\net6.0\Raksha.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\obj\Debug\net6.0\Raksha.AssemblyInfoInputs.cache
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\obj\Debug\net6.0\Raksha.AssemblyInfo.cs
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\obj\Debug\net6.0\Raksha.csproj.CoreCompileInputs.cache
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\obj\Debug\net6.0\Raksha.MvcApplicationPartsAssemblyInfo.cs
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\obj\Debug\net6.0\Raksha.MvcApplicationPartsAssemblyInfo.cache
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\obj\Debug\net6.0\Raksha.RazorAssemblyInfo.cache
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\obj\Debug\net6.0\Raksha.RazorAssemblyInfo.cs
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\obj\Debug\net6.0\staticwebassets.build.json
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\obj\Debug\net6.0\staticwebassets.development.json
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\obj\Debug\net6.0\scopedcss\bundle\Raksha.styles.css
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\obj\Debug\net6.0\scopedcss\projectbundle\Raksha.bundle.scp.css
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\obj\Debug\net6.0\Raksha.csproj.CopyComplete
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\obj\Debug\net6.0\Raksha.dll
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\obj\Debug\net6.0\ref\Raksha.dll
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\obj\Debug\net6.0\Raksha.pdb
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\obj\Debug\net6.0\Raksha.genruntimeconfig.cache
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\bin\Debug\net6.0\ref\Raksha.dll
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\bin\Debug\net6.0\Raksha.pdb
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\bin\Debug\net6.0\itextsharp.dll
+D:\Ramya\Projects\Raksha - With Kendo\Raksha\obj\Debug\net6.0\Raksha.csproj.AssemblyReference.cache
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\bin\Debug\net6.0\appsettings.Development.json
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\bin\Debug\net6.0\appsettings.json
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\bin\Debug\net6.0\Raksha.staticwebassets.runtime.json
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\bin\Debug\net6.0\Raksha.exe
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\bin\Debug\net6.0\Raksha.deps.json
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\bin\Debug\net6.0\Raksha.runtimeconfig.json
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\bin\Debug\net6.0\Raksha.dll
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\bin\Debug\net6.0\ref\Raksha.dll
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\bin\Debug\net6.0\Raksha.pdb
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\bin\Debug\net6.0\itextsharp.dll
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\bin\Debug\net6.0\Kendo.Mvc.dll
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\bin\Debug\net6.0\Microsoft.DotNet.InternalAbstractions.dll
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\bin\Debug\net6.0\Microsoft.Extensions.Globalization.CultureInfoCache.dll
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\bin\Debug\net6.0\Microsoft.Extensions.PlatformAbstractions.dll
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\bin\Debug\net6.0\MySql.Data.dll
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\bin\Debug\net6.0\System.Data.OleDb.dll
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\bin\Debug\net6.0\bg-BG\Kendo.Mvc.resources.dll
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\bin\Debug\net6.0\cs-CZ\Kendo.Mvc.resources.dll
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\bin\Debug\net6.0\da-DK\Kendo.Mvc.resources.dll
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\bin\Debug\net6.0\de-DE\Kendo.Mvc.resources.dll
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\bin\Debug\net6.0\es-ES\Kendo.Mvc.resources.dll
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\bin\Debug\net6.0\fr-CA\Kendo.Mvc.resources.dll
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\bin\Debug\net6.0\fr-FR\Kendo.Mvc.resources.dll
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\bin\Debug\net6.0\it-IT\Kendo.Mvc.resources.dll
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\bin\Debug\net6.0\nl-NL\Kendo.Mvc.resources.dll
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\bin\Debug\net6.0\pl-PL\Kendo.Mvc.resources.dll
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\bin\Debug\net6.0\pt-BR\Kendo.Mvc.resources.dll
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\bin\Debug\net6.0\pt-PT\Kendo.Mvc.resources.dll
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\bin\Debug\net6.0\ro-RO\Kendo.Mvc.resources.dll
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\bin\Debug\net6.0\ru-RU\Kendo.Mvc.resources.dll
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\bin\Debug\net6.0\sv-SE\Kendo.Mvc.resources.dll
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\bin\Debug\net6.0\tr-TR\Kendo.Mvc.resources.dll
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\bin\Debug\net6.0\uk-UA\Kendo.Mvc.resources.dll
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\bin\Debug\net6.0\zh-CN\Kendo.Mvc.resources.dll
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\obj\Debug\net6.0\Raksha.csproj.AssemblyReference.cache
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\obj\Debug\net6.0\Raksha.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\obj\Debug\net6.0\Raksha.AssemblyInfoInputs.cache
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\obj\Debug\net6.0\Raksha.AssemblyInfo.cs
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\obj\Debug\net6.0\Raksha.csproj.CoreCompileInputs.cache
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\obj\Debug\net6.0\Raksha.MvcApplicationPartsAssemblyInfo.cs
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\obj\Debug\net6.0\Raksha.MvcApplicationPartsAssemblyInfo.cache
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\obj\Debug\net6.0\Raksha.RazorAssemblyInfo.cache
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\obj\Debug\net6.0\Raksha.RazorAssemblyInfo.cs
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\obj\Debug\net6.0\staticwebassets.build.json
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\obj\Debug\net6.0\staticwebassets.development.json
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\obj\Debug\net6.0\scopedcss\bundle\Raksha.styles.css
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\obj\Debug\net6.0\scopedcss\projectbundle\Raksha.bundle.scp.css
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\obj\Debug\net6.0\Raksha.csproj.CopyComplete
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\obj\Debug\net6.0\Raksha.dll
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\obj\Debug\net6.0\ref\Raksha.dll
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\obj\Debug\net6.0\Raksha.pdb
+D:\Bala Flexi\Projects\Raksha TPA\Ramya\Raksha Solution\obj\Debug\net6.0\Raksha.genruntimeconfig.cache
+D:\Ramya\Projects\Raksha from Bala Sir\bin\Debug\net6.0\appsettings.Development.json
+D:\Ramya\Projects\Raksha from Bala Sir\bin\Debug\net6.0\appsettings.json
+D:\Ramya\Projects\Raksha from Bala Sir\bin\Debug\net6.0\Raksha.staticwebassets.runtime.json
+D:\Ramya\Projects\Raksha from Bala Sir\bin\Debug\net6.0\Raksha.exe
+D:\Ramya\Projects\Raksha from Bala Sir\bin\Debug\net6.0\Raksha.deps.json
+D:\Ramya\Projects\Raksha from Bala Sir\bin\Debug\net6.0\Raksha.runtimeconfig.json
+D:\Ramya\Projects\Raksha from Bala Sir\bin\Debug\net6.0\Raksha.dll
+D:\Ramya\Projects\Raksha from Bala Sir\bin\Debug\net6.0\ref\Raksha.dll
+D:\Ramya\Projects\Raksha from Bala Sir\bin\Debug\net6.0\Raksha.pdb
+D:\Ramya\Projects\Raksha from Bala Sir\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\Ramya\Projects\Raksha from Bala Sir\bin\Debug\net6.0\itextsharp.dll
+D:\Ramya\Projects\Raksha from Bala Sir\bin\Debug\net6.0\Kendo.Mvc.dll
+D:\Ramya\Projects\Raksha from Bala Sir\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Ramya\Projects\Raksha from Bala Sir\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+D:\Ramya\Projects\Raksha from Bala Sir\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Ramya\Projects\Raksha from Bala Sir\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Ramya\Projects\Raksha from Bala Sir\bin\Debug\net6.0\Microsoft.DotNet.InternalAbstractions.dll
+D:\Ramya\Projects\Raksha from Bala Sir\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Ramya\Projects\Raksha from Bala Sir\bin\Debug\net6.0\Microsoft.Extensions.Globalization.CultureInfoCache.dll
+D:\Ramya\Projects\Raksha from Bala Sir\bin\Debug\net6.0\Microsoft.Extensions.PlatformAbstractions.dll
+D:\Ramya\Projects\Raksha from Bala Sir\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Ramya\Projects\Raksha from Bala Sir\bin\Debug\net6.0\MySql.Data.dll
+D:\Ramya\Projects\Raksha from Bala Sir\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Ramya\Projects\Raksha from Bala Sir\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Ramya\Projects\Raksha from Bala Sir\bin\Debug\net6.0\System.Data.OleDb.dll
+D:\Ramya\Projects\Raksha from Bala Sir\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\Ramya\Projects\Raksha from Bala Sir\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Ramya\Projects\Raksha from Bala Sir\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ramya\Projects\Raksha from Bala Sir\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Ramya\Projects\Raksha from Bala Sir\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Ramya\Projects\Raksha from Bala Sir\bin\Debug\net6.0\bg-BG\Kendo.Mvc.resources.dll
+D:\Ramya\Projects\Raksha from Bala Sir\bin\Debug\net6.0\cs-CZ\Kendo.Mvc.resources.dll
+D:\Ramya\Projects\Raksha from Bala Sir\bin\Debug\net6.0\da-DK\Kendo.Mvc.resources.dll
+D:\Ramya\Projects\Raksha from Bala Sir\bin\Debug\net6.0\de-DE\Kendo.Mvc.resources.dll
+D:\Ramya\Projects\Raksha from Bala Sir\bin\Debug\net6.0\es-ES\Kendo.Mvc.resources.dll
+D:\Ramya\Projects\Raksha from Bala Sir\bin\Debug\net6.0\fr-CA\Kendo.Mvc.resources.dll
+D:\Ramya\Projects\Raksha from Bala Sir\bin\Debug\net6.0\fr-FR\Kendo.Mvc.resources.dll
+D:\Ramya\Projects\Raksha from Bala Sir\bin\Debug\net6.0\it-IT\Kendo.Mvc.resources.dll
+D:\Ramya\Projects\Raksha from Bala Sir\bin\Debug\net6.0\nl-NL\Kendo.Mvc.resources.dll
+D:\Ramya\Projects\Raksha from Bala Sir\bin\Debug\net6.0\pl-PL\Kendo.Mvc.resources.dll
+D:\Ramya\Projects\Raksha from Bala Sir\bin\Debug\net6.0\pt-BR\Kendo.Mvc.resources.dll
+D:\Ramya\Projects\Raksha from Bala Sir\bin\Debug\net6.0\pt-PT\Kendo.Mvc.resources.dll
+D:\Ramya\Projects\Raksha from Bala Sir\bin\Debug\net6.0\ro-RO\Kendo.Mvc.resources.dll
+D:\Ramya\Projects\Raksha from Bala Sir\bin\Debug\net6.0\ru-RU\Kendo.Mvc.resources.dll
+D:\Ramya\Projects\Raksha from Bala Sir\bin\Debug\net6.0\sv-SE\Kendo.Mvc.resources.dll
+D:\Ramya\Projects\Raksha from Bala Sir\bin\Debug\net6.0\tr-TR\Kendo.Mvc.resources.dll
+D:\Ramya\Projects\Raksha from Bala Sir\bin\Debug\net6.0\uk-UA\Kendo.Mvc.resources.dll
+D:\Ramya\Projects\Raksha from Bala Sir\bin\Debug\net6.0\zh-CN\Kendo.Mvc.resources.dll
+D:\Ramya\Projects\Raksha from Bala Sir\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Ramya\Projects\Raksha from Bala Sir\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+D:\Ramya\Projects\Raksha from Bala Sir\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\Ramya\Projects\Raksha from Bala Sir\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Ramya\Projects\Raksha from Bala Sir\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Ramya\Projects\Raksha from Bala Sir\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ramya\Projects\Raksha from Bala Sir\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Ramya\Projects\Raksha from Bala Sir\obj\Debug\net6.0\Raksha.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ramya\Projects\Raksha from Bala Sir\obj\Debug\net6.0\Raksha.AssemblyInfoInputs.cache
+D:\Ramya\Projects\Raksha from Bala Sir\obj\Debug\net6.0\Raksha.AssemblyInfo.cs
+D:\Ramya\Projects\Raksha from Bala Sir\obj\Debug\net6.0\Raksha.csproj.CoreCompileInputs.cache
+D:\Ramya\Projects\Raksha from Bala Sir\obj\Debug\net6.0\Raksha.MvcApplicationPartsAssemblyInfo.cs
+D:\Ramya\Projects\Raksha from Bala Sir\obj\Debug\net6.0\Raksha.MvcApplicationPartsAssemblyInfo.cache
+D:\Ramya\Projects\Raksha from Bala Sir\obj\Debug\net6.0\Raksha.RazorAssemblyInfo.cache
+D:\Ramya\Projects\Raksha from Bala Sir\obj\Debug\net6.0\Raksha.RazorAssemblyInfo.cs
+D:\Ramya\Projects\Raksha from Bala Sir\obj\Debug\net6.0\staticwebassets.build.json
+D:\Ramya\Projects\Raksha from Bala Sir\obj\Debug\net6.0\staticwebassets.development.json
+D:\Ramya\Projects\Raksha from Bala Sir\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Ramya\Projects\Raksha from Bala Sir\obj\Debug\net6.0\scopedcss\bundle\Raksha.styles.css
+D:\Ramya\Projects\Raksha from Bala Sir\obj\Debug\net6.0\scopedcss\projectbundle\Raksha.bundle.scp.css
+D:\Ramya\Projects\Raksha from Bala Sir\obj\Debug\net6.0\Raksha.csproj.CopyComplete
+D:\Ramya\Projects\Raksha from Bala Sir\obj\Debug\net6.0\Raksha.dll
+D:\Ramya\Projects\Raksha from Bala Sir\obj\Debug\net6.0\ref\Raksha.dll
+D:\Ramya\Projects\Raksha from Bala Sir\obj\Debug\net6.0\Raksha.pdb
+D:\Ramya\Projects\Raksha from Bala Sir\obj\Debug\net6.0\Raksha.genruntimeconfig.cache
+D:\Ramya\Projects\Raksha from Bala Sir\obj\Debug\net6.0\Raksha.csproj.AssemblyReference.cache
